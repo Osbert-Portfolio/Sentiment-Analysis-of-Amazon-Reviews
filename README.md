@@ -22,4 +22,4 @@ This project focuses on sentiment analysis of Amazon reviews using **deep learni
 - 🐍 **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK
 - 🔥 **Deep Learning Framework:** PyTorch (LSTM Model)
 - 📊 **Machine Learning Models:** Logistic Regression, Random Forest
-- 📓 **Jupyter Notebook:** Interactive data exploration and model development
+
